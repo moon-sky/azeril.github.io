@@ -6,10 +6,15 @@ decription:
 categories:Blog
 ---
 
-### First Servlet(Servlet 学习日记) ###
-#### 前期准备 ####
+
+
+### First Servlet(Servlet 学习日记)
+
+### 前期准备
+
 1. IDE: MyEclipse 2014
-#### 详细步骤 ####
+### 详细步骤
+
 1. 新建一个web project
 2. 右键新建servlet![](http://i.imgur.com/plxDtCd.png)
 3.代码详细如下
