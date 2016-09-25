@@ -1,9 +1,8 @@
 ---
-layout:post
-titile:Servlet初识
-decription:
-此一次接触servlet，好多东西都不太清楚，也作为入门的一篇吧
-categories:Blog
+layout: post
+titile: Servlet初识
+decription: 此一次接触servlet，好多东西都不太清楚，也作为入门的一篇吧
+categories: Blog
 ---
 
 
