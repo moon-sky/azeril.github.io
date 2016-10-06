@@ -1,0 +1,55 @@
+---
+layout: post
+titile: PSP相关知识
+decription: PSP（Personal Software Proccess）是Watts Humphrey 提出的软件工程原则中的系列中的一个，其他还包括TSP(Teambition Software Process) 
+categories: Blog
+---
+
+
+## PSP 相关的一些笔记
+
+
+### 工作价值
+1. 是否可以复用
+2. 是否需要定期维护
+3. 是否为使用者带来良好的用户体验
+
+### 开发评估
+1. 资源
+	1. 本部门需要准备的开发资源有哪些
+	2. 其他部门需要准备的资源有哪些（包括文档spec）
+
+2. 需求
+3. 时间评估
+	1. 任务开始时间、结束时间、中间被打断时间（打断时间是因为它会是一个很大的影响长度的因素
+4. 大小评估
+	1. 以LOC 代码行数评估项目复杂度
+	2. 软件大小目录
+		1. 基础（Base）
+		2. 添加（Added）
+		3. 修改（Modifed）
+		4. 删除（Deleted）
+		5. 复用（Reused）
+		5. 全部(Total)
+
+5. 质量评估
+	1. Bug密度（Defect Density）
+		1. 1000*bug数目/修改的代码行数
+	2. 复查速率(Review rate)
+	3. 开发时间比率（Development time ratio）
+		1. 代码设计到与代码开发时间的比率
+		2. 设计审查到真正的设计时间。
+		3. 代码审查与代码编写时间
+	4. Bug所占时间比率（Defect ratios）
+	5. Bug每小时（Defect per hour）
+	6. Bug移除杠杆（Defect removal l）
+	7. 鉴定失败率（Appraisal to failure ratio）
+	8. 通过率
+
+6. 质量管理
+	1. 工程师责任制
+		1. 每个人对自己的项目代码负责
+	2. 尽早解决发现的bug
+	3. 避免bug的出现
+		1. Bug记录机制（每个人负责把bug的原因，解决方案记录下来。） 
+	
