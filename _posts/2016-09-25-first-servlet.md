@@ -11,7 +11,7 @@ categories: Blog
 
 ### 前期准备
 
-1. IDE: MyEclipse 2014
+1. IDE: MyEclipse 2014或者更高
 ### 详细步骤
 
 1. 新建一个web project
